@@ -10273,7 +10273,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1469692389}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 84e2affc94af6dd4fb0318ef2bf56a65, type: 3}
+  m_Script: {fileID: 11500000, guid: a854d953ee78b4a4684b3defbc6b0b3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   puerta1: {fileID: 34027141}
@@ -11785,6 +11785,24 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 463285ecd6702471a909ba810832bf0e, type: 2}
   m_IsPrefabParent: 0
+--- !u!1 &1715836269 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 761381335, guid: 463285ecd6702471a909ba810832bf0e,
+    type: 2}
+  m_PrefabInternal: {fileID: 1715836268}
+--- !u!114 &1715836270
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1715836269}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c177682d92e557e48a4b64363b9e1188, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tiempoRestante: 30
+  ascensor: {fileID: 1469692389}
 --- !u!1 &1732180743
 GameObject:
   m_ObjectHideFlags: 0

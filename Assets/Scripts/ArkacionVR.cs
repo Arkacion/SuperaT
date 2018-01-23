@@ -2,12 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
-using UnityEngine.SceneManagement;
 
 public class ArkacionVR : MonoBehaviour {
 
     public float gazeTime = 2f;
-    
+
     private bool gazeAt;
     private float timer;
 
@@ -39,17 +38,24 @@ public class ArkacionVR : MonoBehaviour {
     {
         //Debug.Log("PointerExit");
         gazeAt = false;
-        timer = 0f;
+        timer = 0;
     }
 
     public void PointerClick()
     {
+        Debug.Log("PointerClick");
         gazeAt = false;
-        timer = 0f;
+        timer = 0;
     }
 
-    public void NextScene()
+    public void Teleport()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        GameObject player = GameObject.FindWithTag("Player");
+
+        //transform.Translate(player.transform.position * Time.deltaTime);
+        player.transform.position = transform.position;
+
+        gazeAt = false;
+        timer = 0;
     }
 }

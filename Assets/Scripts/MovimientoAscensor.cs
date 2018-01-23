@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MovimientoAscensor : MonoBehaviour {
 
@@ -27,6 +28,8 @@ public class MovimientoAscensor : MonoBehaviour {
 	private bool sonidoAscensorBajadaReproducido = false;
 	private bool pulsadaPanico = false;
 	private bool subidoMax = false;
+	private float tiempoAbajo = 5.0f;
+	private bool ascensorAbajo = false;
 
 	void Start () {
 		
@@ -34,7 +37,7 @@ public class MovimientoAscensor : MonoBehaviour {
 	
 
 	void Update () {
-		if (Input.GetMouseButtonDown (0)) {
+		if (Input.GetMouseButtonDown(0)) {
 			pulsada = true;
 		}
 		if(pulsada){
@@ -80,7 +83,7 @@ public class MovimientoAscensor : MonoBehaviour {
 					luzAscensor.SetActive (false);
 				}
 				if(subidoMax){
-					if (Input.GetMouseButtonDown (0)) {
+					if (Input.GetMouseButtonDown(0)) {
 						pulsadaPanico = true;
 					}
 					if (pulsadaPanico) {
@@ -111,6 +114,7 @@ public class MovimientoAscensor : MonoBehaviour {
 									AudioSource.PlayClipAtPoint (sonidoPuertasAbriendo, transform.position);
 									sonidoPuertaCerradaReproducido = true;
 								}
+								ascensorAbajo = true;
 							}
 						}
 					}
@@ -118,6 +122,10 @@ public class MovimientoAscensor : MonoBehaviour {
 					
 			}
 		}
-
+		if(ascensorAbajo){
+			tiempoAbajo -= Time.deltaTime;
+			if(tiempoAbajo <= 0.0f)
+				SceneManager.LoadScene (0);
+		}
 	}	
 }
