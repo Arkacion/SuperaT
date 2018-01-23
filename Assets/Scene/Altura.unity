@@ -88,7 +88,6 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaDirect: 0.5
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
-    m_ShowResolutionOverlay: 1
   m_LightingDataAsset: {fileID: 0}
   m_UseShadowmask: 0
 --- !u!196 &5
@@ -1752,9 +1751,9 @@ MeshCollider:
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 3
+  serializedVersion: 2
   m_Convex: 0
-  m_CookingOptions: 14
+  m_InflateMesh: 0
   m_SkinWidth: 0.01
   m_Mesh: {fileID: 4300000, guid: 5c39ec134a75d4a87a4a69a1be8dc5de, type: 3}
 --- !u!33 &955127918
@@ -2066,7 +2065,6 @@ Camera:
   m_TargetEye: 3
   m_HDR: 0
   m_AllowMSAA: 1
-  m_AllowDynamicResolution: 0
   m_ForceIntoRT: 0
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
@@ -2410,7 +2408,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1199920616}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 1.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1490385948}
@@ -2466,22 +2464,6 @@ Prefab:
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 463285ecd6702471a909ba810832bf0e, type: 2}
   m_IsPrefabParent: 0
---- !u!1 &1252116908 stripped
-GameObject:
-  m_PrefabParentObject: {fileID: 761381335, guid: 463285ecd6702471a909ba810832bf0e,
-    type: 2}
-  m_PrefabInternal: {fileID: 1252116907}
---- !u!114 &1252116909
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1252116908}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b74739ab78df67949a298aee184f5c63, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1266476664
 Prefab:
   m_ObjectHideFlags: 0

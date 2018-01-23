@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using System.Threading;
 
 public class LightChanger : MonoBehaviour {
 	
@@ -17,7 +16,6 @@ public class LightChanger : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		Thread.Sleep(50);
 		_light.transform.Rotate(-Vector3.right * multiplier);
 	}
 }
