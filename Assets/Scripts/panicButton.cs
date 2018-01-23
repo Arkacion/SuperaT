@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class panicButton : MonoBehaviour {
 
@@ -12,7 +13,7 @@ public class panicButton : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		if (Input.GetMouseButtonDown(0)) {
-			Application.LoadLevel (0);
-		}
+            SceneManager.LoadScene(0);
+        }
 	}
 }
