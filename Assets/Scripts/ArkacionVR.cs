@@ -52,4 +52,9 @@ public class ArkacionVR : MonoBehaviour {
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
+
+    public void FinalScene()
+    {
+        SceneManager.LoadScene(0);
+    }
 }
