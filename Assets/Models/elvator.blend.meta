@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: a03c34f9a62b8574294e40cd0f8ad268
+timeCreated: 1514285049
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BezierCurve
+    100002: Circle
+    100004: Circle_001
+    100006: Circle_002
+    100008: Circle_003
+    100010: Circle_004
+    100012: Circle_005
+    100014: Circle_006
+    100016: Cube
+    100018: Cube_001
+    100020: Cube_002
+    100022: Cube_003
+    100024: Cube_004
+    100026: Cube_005
+    100028: Cube_006
+    100030: Cube_007
+    100032: //RootNode
+    100034: Plane
+    100036: Plane_001
+    100038: Plane_002
+    100040: Plane_003
+    100042: Plane_003_MeshPart0
+    100044: Plane_003_MeshPart1
+    100046: Plane_004
+    100048: Plane_004_MeshPart0
+    100050: Plane_004_MeshPart1
+    100052: Plane_005
+    100054: Plane_006
+    100056: Plane_006_MeshPart0
+    100058: Plane_006_MeshPart1
+    100060: Plane_006_MeshPart2
+    100062: Plane_006_MeshPart3
+    100064: Plane_007
+    100066: Plane_008
+    100068: Plane_009
+    100070: Plane_010
+    100072: Plane_011
+    100074: Plane_012
+    100076: Plane_013
+    400000: BezierCurve
+    400002: Circle
+    400004: Circle_001
+    400006: Circle_002
+    400008: Circle_003
+    400010: Circle_004
+    400012: Circle_005
+    400014: Circle_006
+    400016: Cube
+    400018: Cube_001
+    400020: Cube_002
+    400022: Cube_003
+    400024: Cube_004
+    400026: Cube_005
+    400028: Cube_006
+    400030: Cube_007
+    400032: //RootNode
+    400034: Plane
+    400036: Plane_001
+    400038: Plane_002
+    400040: Plane_003
+    400042: Plane_003_MeshPart0
+    400044: Plane_003_MeshPart1
+    400046: Plane_004
+    400048: Plane_004_MeshPart0
+    400050: Plane_004_MeshPart1
+    400052: Plane_005
+    400054: Plane_006
+    400056: Plane_006_MeshPart0
+    400058: Plane_006_MeshPart1
+    400060: Plane_006_MeshPart2
+    400062: Plane_006_MeshPart3
+    400064: Plane_007
+    400066: Plane_008
+    400068: Plane_009
+    400070: Plane_010
+    400072: Plane_011
+    400074: Plane_012
+    400076: Plane_013
+    2300000: BezierCurve
+    2300002: Circle
+    2300004: Circle_001
+    2300006: Circle_002
+    2300008: Circle_003
+    2300010: Circle_004
+    2300012: Circle_005
+    2300014: Circle_006
+    2300016: Cube
+    2300018: Cube_001
+    2300020: Cube_002
+    2300022: Cube_003
+    2300024: Cube_004
+    2300026: Cube_005
+    2300028: Cube_006
+    2300030: Cube_007
+    2300032: Plane
+    2300034: Plane_001
+    2300036: Plane_002
+    2300038: Plane_003_MeshPart0
+    2300040: Plane_003_MeshPart1
+    2300042: Plane_004_MeshPart0
+    2300044: Plane_004_MeshPart1
+    2300046: Plane_005
+    2300048: Plane_006_MeshPart0
+    2300050: Plane_006_MeshPart1
+    2300052: Plane_006_MeshPart2
+    2300054: Plane_006_MeshPart3
+    2300056: Plane_007
+    2300058: Plane_008
+    2300060: Plane_009
+    2300062: Plane_010
+    2300064: Plane_011
+    2300066: Plane_012
+    2300068: Plane_013
+    3300000: BezierCurve
+    3300002: Circle
+    3300004: Circle_001
+    3300006: Circle_002
+    3300008: Circle_003
+    3300010: Circle_004
+    3300012: Circle_005
+    3300014: Circle_006
+    3300016: Cube
+    3300018: Cube_001
+    3300020: Cube_002
+    3300022: Cube_003
+    3300024: Cube_004
+    3300026: Cube_005
+    3300028: Cube_006
+    3300030: Cube_007
+    3300032: Plane
+    3300034: Plane_001
+    3300036: Plane_002
+    3300038: Plane_003_MeshPart0
+    3300040: Plane_003_MeshPart1
+    3300042: Plane_004_MeshPart0
+    3300044: Plane_004_MeshPart1
+    3300046: Plane_005
+    3300048: Plane_006_MeshPart0
+    3300050: Plane_006_MeshPart1
+    3300052: Plane_006_MeshPart2
+    3300054: Plane_006_MeshPart3
+    3300056: Plane_007
+    3300058: Plane_008
+    3300060: Plane_009
+    3300062: Plane_010
+    3300064: Plane_011
+    3300066: Plane_012
+    3300068: Plane_013
+    4300000: Plane_012
+    4300002: Plane_013
+    4300004: Plane_011
+    4300006: Plane_010
+    4300008: Plane_009
+    4300010: Circle_005
+    4300012: Cube_006
+    4300014: Cube_007
+    4300016: Circle_006
+    4300018: Plane_006_MeshPart0
+    4300020: Plane_006_MeshPart1
+    4300022: Plane_006_MeshPart2
+    4300024: Plane_006_MeshPart3
+    4300026: Circle_004
+    4300028: Plane_007
+    4300030: Plane_008
+    4300032: Circle_003
+    4300034: Plane_005
+    4300036: BezierCurve
+    4300038: Plane_002
+    4300040: Circle_001
+    4300042: Circle
+    4300044: Plane_003_MeshPart0
+    4300046: Plane_003_MeshPart1
+    4300048: Plane_004_MeshPart0
+    4300050: Plane_004_MeshPart1
+    4300052: Circle_002
+    4300054: Cube_005
+    4300056: Cube_004
+    4300058: Plane_001
+    4300060: Plane
+    4300062: Cube_003
+    4300064: Cube_002
+    4300066: Cube_001
+    4300068: Cube
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 46abbd2cfec6ddd41a13fd3773385d0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: 997cb5c0662af8847acd0c20ef0a1ede, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: 1d7386c35f6a0404d97f27906f136f0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: 62df828796d177542920920ab5d9eddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004
+    second: {fileID: 2100000, guid: 8a73565764a155c459423e9ed246f947, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005
+    second: {fileID: 2100000, guid: 5d85e38370896414fa48b0dcae771321, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006
+    second: {fileID: 2100000, guid: 3ed820cc3d8baa74dbe91d7714065ad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007
+    second: {fileID: 2100000, guid: bdc3cc38aa546b44c8486cebfcab5c33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008
+    second: {fileID: 2100000, guid: 9bf8988dc200a444c9552780917d3bd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button
+    second: {fileID: 2100000, guid: 409388bc0bdc024448059dc70cb22b59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: button_ring
+    second: {fileID: 2100000, guid: bbe1dbef626d24e459f31f5367aac447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: elevator_door
+    second: {fileID: 2100000, guid: 42b29e498770b3f4dac9c15a3d5ab8ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: elevator_trim
+    second: {fileID: 2100000, guid: 56ee5fe96e2c2fe41a2fef39bb6a53e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fire_alarm
+    second: {fileID: 2100000, guid: cf0cef2bdb6d620419ef998fc094ec1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fire_alarm_glass
+    second: {fileID: 2100000, guid: 72eaf84865833c847b6c39928b62217a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fire_alarm_glass_case
+    second: {fileID: 2100000, guid: e672c9df709448e4497e436a08daf596, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fire_alarm_screw
+    second: {fileID: 2100000, guid: f859be1b1042cb74f85b129021847372, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: smoke_alarm
+    second: {fileID: 2100000, guid: e53f3586c3613484ba4b6587fdbb2a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: smoke_alarm_green_ight
+    second: {fileID: 2100000, guid: de29c05d0a0b4cc4fb4cfdf1d755adb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: smoke_alarm_internal
+    second: {fileID: 2100000, guid: 96ceaa7d5a20aac43a68e8bd0246a3e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: smoke_alarm_red_light
+    second: {fileID: 2100000, guid: 8ec07e4d55aa1a140afb6d0eda4f6ec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: b26bd96c02f918a4ab7716318d407871, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

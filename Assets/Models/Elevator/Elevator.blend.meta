@@ -1,0 +1,404 @@
+fileFormatVersion: 2
+guid: 9c852b2a16264c14f858f3d36714b9ab
+timeCreated: 1514285148
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Call_Switch_Down
+    100002: Call_Switch_Up
+    100004: DOOR_CONTROL
+    100006: Door_Inner_l
+    100008: Door_Inner_r
+    100010: Door_Outer_l
+    100012: Door_Outer_r
+    100014: //RootNode
+    100016: IP_Alarm
+    100018: IP_F1
+    100020: IP_F2
+    100022: IP_F3
+    100024: IP_F4
+    100026: IP_F5
+    100028: IP_FG
+    100030: IP_Help
+    100032: LIFT_Brushed_Metal_Wall
+    100034: LIFT_Call_Button_Down
+    100036: LIFT_Call_Button_Panel
+    100038: LIFT_Call_Button_Up
+    100040: LIFT_Control_Panel
+    100042: LIFT_CP_Text
+    100044: LIFT_Doors_Inner_L
+    100046: LIFT_Doors_Inner_R
+    100048: LIFT_Doors_Outer_L
+    100050: LIFT_Doors_R
+    100052: LIFT_Handlebar
+    100054: LIFT_Internal_Call_Buttons
+    100056: LIFT_Internal_Panel
+    100058: LIFT_IPL
+    100060: LIFT_Light
+    100062: LIFT_light_call_Down
+    100064: LIFT_light_call_Up
+    100066: LIFT_Main_Box
+    100068: LIFT_Outer_Floor
+    100070: LIFT_Outer_Wall
+    100072: LIFT_OutsideCeiling
+    100074: LIFT_Passenger_Sign
+    100076: LIFT_Passenger_Sign_Internal
+    100078: LIFT_Primary_Rig
+    100080: LIFT_Rear_Panels
+    100082: LIFT_Roof_Fans
+    100084: LIFT_Roof_Panels
+    100086: LIFT_Shapes
+    100088: LIFT_Side_Panels
+    100090: LIFT_SK_Lever
+    400000: Call_Switch_Down
+    400002: Call_Switch_Up
+    400004: DOOR_CONTROL
+    400006: Door_Inner_l
+    400008: Door_Inner_r
+    400010: Door_Outer_l
+    400012: Door_Outer_r
+    400014: //RootNode
+    400016: IP_Alarm
+    400018: IP_F1
+    400020: IP_F2
+    400022: IP_F3
+    400024: IP_F4
+    400026: IP_F5
+    400028: IP_FG
+    400030: IP_Help
+    400032: LIFT_Brushed_Metal_Wall
+    400034: LIFT_Call_Button_Down
+    400036: LIFT_Call_Button_Panel
+    400038: LIFT_Call_Button_Up
+    400040: LIFT_Control_Panel
+    400042: LIFT_CP_Text
+    400044: LIFT_Doors_Inner_L
+    400046: LIFT_Doors_Inner_R
+    400048: LIFT_Doors_Outer_L
+    400050: LIFT_Doors_R
+    400052: LIFT_Handlebar
+    400054: LIFT_Internal_Call_Buttons
+    400056: LIFT_Internal_Panel
+    400058: LIFT_IPL
+    400060: LIFT_Light
+    400062: LIFT_light_call_Down
+    400064: LIFT_light_call_Up
+    400066: LIFT_Main_Box
+    400068: LIFT_Outer_Floor
+    400070: LIFT_Outer_Wall
+    400072: LIFT_OutsideCeiling
+    400074: LIFT_Passenger_Sign
+    400076: LIFT_Passenger_Sign_Internal
+    400078: LIFT_Primary_Rig
+    400080: LIFT_Rear_Panels
+    400082: LIFT_Roof_Fans
+    400084: LIFT_Roof_Panels
+    400086: LIFT_Shapes
+    400088: LIFT_Side_Panels
+    400090: LIFT_SK_Lever
+    2300000: LIFT_Brushed_Metal_Wall
+    2300002: LIFT_Call_Button_Down
+    2300004: LIFT_Call_Button_Panel
+    2300006: LIFT_Call_Button_Up
+    2300008: LIFT_Control_Panel
+    2300010: LIFT_CP_Text
+    2300012: LIFT_Handlebar
+    2300014: LIFT_Internal_Call_Buttons
+    2300016: LIFT_Internal_Panel
+    2300018: LIFT_IPL
+    2300020: LIFT_Light
+    2300022: LIFT_light_call_Down
+    2300024: LIFT_light_call_Up
+    2300026: LIFT_Main_Box
+    2300028: LIFT_Outer_Floor
+    2300030: LIFT_Outer_Wall
+    2300032: LIFT_OutsideCeiling
+    2300034: LIFT_Passenger_Sign
+    2300036: LIFT_Passenger_Sign_Internal
+    2300038: LIFT_Rear_Panels
+    2300040: LIFT_Roof_Fans
+    2300042: LIFT_Roof_Panels
+    2300044: LIFT_Side_Panels
+    2300046: LIFT_SK_Lever
+    3300000: LIFT_Brushed_Metal_Wall
+    3300002: LIFT_Call_Button_Down
+    3300004: LIFT_Call_Button_Panel
+    3300006: LIFT_Call_Button_Up
+    3300008: LIFT_Control_Panel
+    3300010: LIFT_CP_Text
+    3300012: LIFT_Handlebar
+    3300014: LIFT_Internal_Call_Buttons
+    3300016: LIFT_Internal_Panel
+    3300018: LIFT_IPL
+    3300020: LIFT_Light
+    3300022: LIFT_light_call_Down
+    3300024: LIFT_light_call_Up
+    3300026: LIFT_Main_Box
+    3300028: LIFT_Outer_Floor
+    3300030: LIFT_Outer_Wall
+    3300032: LIFT_OutsideCeiling
+    3300034: LIFT_Passenger_Sign
+    3300036: LIFT_Passenger_Sign_Internal
+    3300038: LIFT_Rear_Panels
+    3300040: LIFT_Roof_Fans
+    3300042: LIFT_Roof_Panels
+    3300044: LIFT_Side_Panels
+    3300046: LIFT_SK_Lever
+    4300000: LIFT_Handlebar
+    4300002: LIFT_Control_Panel
+    4300004: LIFT_CP_Text
+    4300006: LIFT_Doors_R
+    4300008: LIFT_Doors_Inner_R
+    4300010: LIFT_Doors_Inner_L
+    4300012: LIFT_Doors_Outer_L
+    4300014: LIFT_SK_Lever
+    4300016: LIFT_OutsideCeiling
+    4300018: LIFT_Light
+    4300020: LIFT_Roof_Fans
+    4300022: LIFT_Roof_Panels
+    4300024: LIFT_Internal_Call_Buttons
+    4300026: LIFT_Internal_Panel
+    4300028: LIFT_Main_Box
+    4300030: LIFT_Rear_Panels
+    4300032: LIFT_Side_Panels
+    4300034: LIFT_IPL
+    4300036: LIFT_Outer_Wall
+    4300038: LIFT_Call_Button_Down
+    4300040: LIFT_light_call_Down
+    4300042: LIFT_Call_Button_Up
+    4300044: LIFT_light_call_Up
+    4300046: LIFT_Outer_Floor
+    4300048: LIFT_Brushed_Metal_Wall
+    4300050: LIFT_Passenger_Sign_Internal
+    4300052: LIFT_Call_Button_Panel
+    4300054: LIFT_Passenger_Sign
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: LIFT_Doors_Inner_L
+    13700002: LIFT_Doors_Inner_R
+    13700004: LIFT_Doors_Outer_L
+    13700006: LIFT_Doors_R
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Call_Alarm
+    second: {fileID: 2100000, guid: 71cfaebcb5a47e84fb78c4f29b2dd228, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Call_Button_Down
+    second: {fileID: 2100000, guid: baa2abc5abfbaf04092a887ed62c3259, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Call_Button_Up
+    second: {fileID: 2100000, guid: 02ee90399addaa34f8abc8fdd9b75d42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Call_Panel
+    second: {fileID: 2100000, guid: 7febfe0bc4fd30d4991e6fdacd88b8ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Call_buttons
+    second: {fileID: 2100000, guid: 1bae0ab1bc4708d4bb1d815d2eca0dd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Ceiling
+    second: {fileID: 2100000, guid: 76750bbfb6bcc424fa0380a13ccda66d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Elevator_Carpet
+    second: {fileID: 2100000, guid: ab4dd024953ce7140af6009a3521e1a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_IP_1
+    second: {fileID: 2100000, guid: 6fc8f9b438d96d540bd5f6533e4ba3ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_IP_2
+    second: {fileID: 2100000, guid: 26528937a896d3e479ef43f91b875ec0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_IP_3
+    second: {fileID: 2100000, guid: 67a19c043be8c2f4ea7556b6bdcdaa6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_IP_4
+    second: {fileID: 2100000, guid: 671c7393bdfa49d489842770b50d6494, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_IP_5
+    second: {fileID: 2100000, guid: e6cc20cfdc86ecc4fb16e7469138e5d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_IP_Alarm
+    second: {fileID: 2100000, guid: e7d6759899c3f044ea0ea95398b50836, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_IP_Assistance
+    second: {fileID: 2100000, guid: ad8c2bf7bd7cc8540860dfaf00aa407f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_IP_Ground
+    second: {fileID: 2100000, guid: 52d0779d394aaa14da73f59aa2dccfa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Internal_Panel
+    second: {fileID: 2100000, guid: 26150200be0d0d84f931b272b75c4b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Internal_Panels
+    second: {fileID: 2100000, guid: 405c4d8c6f8c620408c31d71287f0bae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Light
+    second: {fileID: 2100000, guid: a89946d667f8a984d9446b2cd52cbb37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Light_Call_Down
+    second: {fileID: 2100000, guid: e0d2c9bcd13296d4e841ce80e95d44d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Light_Call_Up
+    second: {fileID: 2100000, guid: 6a2f439447731c5448a53ab7e2bea335, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Metal
+    second: {fileID: 2100000, guid: 23369702c15c12442af6c3df3bd91f2c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Panels_Roof
+    second: {fileID: 2100000, guid: 2c840f1f096a63847b871c9efe4e07fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Passenger_Sign_Direction
+    second: {fileID: 2100000, guid: b5184de4827878d428e19864f7124bc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Passenger_Sign_Main
+    second: {fileID: 2100000, guid: 9b062257ff54d554c82a02835533e402, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Roof_Lights
+    second: {fileID: 2100000, guid: 493e567c013a6e648899af5a76180d51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_SK_Switch
+    second: {fileID: 2100000, guid: 73ca449e2437f3841a18f7ee5e79af8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIFT_Wall
+    second: {fileID: 2100000, guid: ec9567399009b714aa3149db73090804, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: 62df828796d177542920920ab5d9eddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: b26bd96c02f918a4ab7716318d407871, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

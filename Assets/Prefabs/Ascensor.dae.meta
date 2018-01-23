@@ -1,0 +1,907 @@
+fileFormatVersion: 2
+guid: 65d28051bd8c7954fb6f932e07deed1b
+timeCreated: 1515600229
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: _3_2
+    100002: Component_12
+    100004: Component_2
+    100006: Component_2 1
+    100008: Component_3
+    100010: Component_3 1
+    100012: Component_4
+    100014: Component_4 1
+    100016: Component_4 2
+    100018: Component_5
+    100020: Component_54
+    100022: Component_65
+    100024: Component_65 1
+    100026: group_0
+    100028: group_1
+    100030: group_10
+    100032: group_10 1
+    100034: group_10 2
+    100036: group_11
+    100038: group_11 1
+    100040: group_11 2
+    100042: group_12
+    100044: group_12 1
+    100046: group_12 2
+    100048: group_13
+    100050: group_14
+    100052: group_15
+    100054: group_16
+    100056: Group_165
+    100058: group_17
+    100060: group_18
+    100062: group_19
+    100064: group_2
+    100066: group_20
+    100068: group_21
+    100070: group_22
+    100072: group_22 1
+    100074: group_23
+    100076: group_23 1
+    100078: group_24
+    100080: group_24 1
+    100082: group_25
+    100084: group_25 1
+    100086: group_26
+    100088: group_26 1
+    100090: group_27
+    100092: group_27 1
+    100094: group_28
+    100096: group_28 1
+    100098: group_3
+    100100: group_4
+    100102: group_5
+    100104: group_6
+    100106: group_7
+    100108: group_8
+    100110: Group_82
+    100112: Group_82 1
+    100114: group_9
+    100116: ID106
+    100118: ID114
+    100120: ID122
+    100122: ID130
+    100124: ID138
+    100126: ID146
+    100128: ID154
+    100130: ID162
+    100132: ID170
+    100134: ID176
+    100136: ID180
+    100138: ID184
+    100140: ID188
+    100142: ID192
+    100144: ID196
+    100146: ID200
+    100148: ID204
+    100150: ID25
+    100152: ID25 1
+    100154: ID25 2
+    100156: ID25 3
+    100158: ID25 4
+    100160: ID25 5
+    100162: ID25 6
+    100164: ID25 7
+    100166: ID25 8
+    100168: ID255
+    100170: ID323
+    100172: ID323 1
+    100174: ID323 2
+    100176: ID33
+    100178: ID33 1
+    100180: ID33 2
+    100182: ID33 3
+    100184: ID33 4
+    100186: ID33 5
+    100188: ID33 6
+    100190: ID33 7
+    100192: ID33 8
+    100194: ID357
+    100196: ID357 1
+    100198: ID384
+    100200: ID392
+    100202: ID400
+    100204: ID408
+    100206: ID416
+    100208: ID424
+    100210: ID432
+    100212: ID440
+    100214: ID446
+    100216: ID450
+    100218: ID454
+    100220: ID471
+    100222: ID479
+    100224: ID510
+    100226: ID538
+    100228: ID538 1
+    100230: ID544
+    100232: ID544 1
+    100234: ID550
+    100236: ID550 1
+    100238: ID558
+    100240: ID558 1
+    100242: ID57
+    100244: ID57 1
+    100246: ID57 2
+    100248: ID57 3
+    100250: ID57 4
+    100252: ID57 5
+    100254: ID57 6
+    100256: ID57 7
+    100258: ID57 8
+    100260: ID90
+    100262: ID98
+    100264: instance_0
+    100266: instance_1
+    100268: instance_10
+    100270: instance_11
+    100272: instance_12
+    100274: instance_13
+    100276: instance_14
+    100278: instance_15
+    100280: instance_16
+    100282: instance_17
+    100284: instance_18
+    100286: instance_19
+    100288: instance_2
+    100290: instance_20
+    100292: instance_20 1
+    100294: instance_21
+    100296: instance_22
+    100298: instance_23
+    100300: instance_3
+    100302: instance_4
+    100304: instance_5
+    100306: instance_6
+    100308: instance_7
+    100310: instance_8
+    100312: instance_9
+    100314: //RootNode
+    100316: REC_LOT_MINI_GE.skp_11
+    100318: REC_LOT_MINI_GE.skp_11 1
+    100320: REC_LOT_MINI_GE.skp_11 2
+    100322: REC_LOT_MINI_GE.skp_11 3
+    100324: REC_LOT_MINI_GE.skp_11 4
+    100326: REC_LOT_MINI_GE.skp_11 5
+    100328: REC_LOT_MINI_GE.skp_11 6
+    100330: REC_LOT_MINI_GE.skp_11 7
+    100332: REC_LOT_MINI_GE.skp_11 8
+    100334: REC_LOT_MINI_GE_Group_01
+    100336: REC_LOT_MINI_GE_Group_01 1
+    100338: REC_LOT_MINI_GE_Group_01 2
+    100340: REC_LOT_MINI_GE_Group_01 3
+    100342: REC_LOT_MINI_GE_Group_01 4
+    100344: REC_LOT_MINI_GE_Group_01 5
+    100346: REC_LOT_MINI_GE_Group_01 6
+    100348: REC_LOT_MINI_GE_Group_01 7
+    100350: REC_LOT_MINI_GE_Group_01 8
+    100352: REC_LOT_MINI_GE_Group_02
+    100354: REC_LOT_MINI_GE_Group_02 1
+    100356: REC_LOT_MINI_GE_Group_02 2
+    100358: REC_LOT_MINI_GE_Group_02 3
+    100360: REC_LOT_MINI_GE_Group_02 4
+    100362: REC_LOT_MINI_GE_Group_02 5
+    100364: REC_LOT_MINI_GE_Group_02 6
+    100366: REC_LOT_MINI_GE_Group_02 7
+    100368: REC_LOT_MINI_GE_Group_02 8
+    100370: REC_LOT_MINI_GE_Group_03
+    100372: REC_LOT_MINI_GE_Group_03 1
+    100374: REC_LOT_MINI_GE_Group_03 2
+    100376: REC_LOT_MINI_GE_Group_03 3
+    100378: REC_LOT_MINI_GE_Group_03 4
+    100380: REC_LOT_MINI_GE_Group_03 5
+    100382: REC_LOT_MINI_GE_Group_03 6
+    100384: REC_LOT_MINI_GE_Group_03 7
+    100386: REC_LOT_MINI_GE_Group_03 8
+    100388: skp_camera_Last_Saved_SketchUp_View
+    100390: skp_camera_Scene_1
+    400000: _3_2
+    400002: Component_12
+    400004: Component_2
+    400006: Component_2 1
+    400008: Component_3
+    400010: Component_3 1
+    400012: Component_4
+    400014: Component_4 1
+    400016: Component_4 2
+    400018: Component_5
+    400020: Component_54
+    400022: Component_65
+    400024: Component_65 1
+    400026: group_0
+    400028: group_1
+    400030: group_10
+    400032: group_10 1
+    400034: group_10 2
+    400036: group_11
+    400038: group_11 1
+    400040: group_11 2
+    400042: group_12
+    400044: group_12 1
+    400046: group_12 2
+    400048: group_13
+    400050: group_14
+    400052: group_15
+    400054: group_16
+    400056: Group_165
+    400058: group_17
+    400060: group_18
+    400062: group_19
+    400064: group_2
+    400066: group_20
+    400068: group_21
+    400070: group_22
+    400072: group_22 1
+    400074: group_23
+    400076: group_23 1
+    400078: group_24
+    400080: group_24 1
+    400082: group_25
+    400084: group_25 1
+    400086: group_26
+    400088: group_26 1
+    400090: group_27
+    400092: group_27 1
+    400094: group_28
+    400096: group_28 1
+    400098: group_3
+    400100: group_4
+    400102: group_5
+    400104: group_6
+    400106: group_7
+    400108: group_8
+    400110: Group_82
+    400112: Group_82 1
+    400114: group_9
+    400116: ID106
+    400118: ID114
+    400120: ID122
+    400122: ID130
+    400124: ID138
+    400126: ID146
+    400128: ID154
+    400130: ID162
+    400132: ID170
+    400134: ID176
+    400136: ID180
+    400138: ID184
+    400140: ID188
+    400142: ID192
+    400144: ID196
+    400146: ID200
+    400148: ID204
+    400150: ID25
+    400152: ID25 1
+    400154: ID25 2
+    400156: ID25 3
+    400158: ID25 4
+    400160: ID25 5
+    400162: ID25 6
+    400164: ID25 7
+    400166: ID25 8
+    400168: ID255
+    400170: ID323
+    400172: ID323 1
+    400174: ID323 2
+    400176: ID33
+    400178: ID33 1
+    400180: ID33 2
+    400182: ID33 3
+    400184: ID33 4
+    400186: ID33 5
+    400188: ID33 6
+    400190: ID33 7
+    400192: ID33 8
+    400194: ID357
+    400196: ID357 1
+    400198: ID384
+    400200: ID392
+    400202: ID400
+    400204: ID408
+    400206: ID416
+    400208: ID424
+    400210: ID432
+    400212: ID440
+    400214: ID446
+    400216: ID450
+    400218: ID454
+    400220: ID471
+    400222: ID479
+    400224: ID510
+    400226: ID538
+    400228: ID538 1
+    400230: ID544
+    400232: ID544 1
+    400234: ID550
+    400236: ID550 1
+    400238: ID558
+    400240: ID558 1
+    400242: ID57
+    400244: ID57 1
+    400246: ID57 2
+    400248: ID57 3
+    400250: ID57 4
+    400252: ID57 5
+    400254: ID57 6
+    400256: ID57 7
+    400258: ID57 8
+    400260: ID90
+    400262: ID98
+    400264: instance_0
+    400266: instance_1
+    400268: instance_10
+    400270: instance_11
+    400272: instance_12
+    400274: instance_13
+    400276: instance_14
+    400278: instance_15
+    400280: instance_16
+    400282: instance_17
+    400284: instance_18
+    400286: instance_19
+    400288: instance_2
+    400290: instance_20
+    400292: instance_20 1
+    400294: instance_21
+    400296: instance_22
+    400298: instance_23
+    400300: instance_3
+    400302: instance_4
+    400304: instance_5
+    400306: instance_6
+    400308: instance_7
+    400310: instance_8
+    400312: instance_9
+    400314: //RootNode
+    400316: REC_LOT_MINI_GE.skp_11
+    400318: REC_LOT_MINI_GE.skp_11 1
+    400320: REC_LOT_MINI_GE.skp_11 2
+    400322: REC_LOT_MINI_GE.skp_11 3
+    400324: REC_LOT_MINI_GE.skp_11 4
+    400326: REC_LOT_MINI_GE.skp_11 5
+    400328: REC_LOT_MINI_GE.skp_11 6
+    400330: REC_LOT_MINI_GE.skp_11 7
+    400332: REC_LOT_MINI_GE.skp_11 8
+    400334: REC_LOT_MINI_GE_Group_01
+    400336: REC_LOT_MINI_GE_Group_01 1
+    400338: REC_LOT_MINI_GE_Group_01 2
+    400340: REC_LOT_MINI_GE_Group_01 3
+    400342: REC_LOT_MINI_GE_Group_01 4
+    400344: REC_LOT_MINI_GE_Group_01 5
+    400346: REC_LOT_MINI_GE_Group_01 6
+    400348: REC_LOT_MINI_GE_Group_01 7
+    400350: REC_LOT_MINI_GE_Group_01 8
+    400352: REC_LOT_MINI_GE_Group_02
+    400354: REC_LOT_MINI_GE_Group_02 1
+    400356: REC_LOT_MINI_GE_Group_02 2
+    400358: REC_LOT_MINI_GE_Group_02 3
+    400360: REC_LOT_MINI_GE_Group_02 4
+    400362: REC_LOT_MINI_GE_Group_02 5
+    400364: REC_LOT_MINI_GE_Group_02 6
+    400366: REC_LOT_MINI_GE_Group_02 7
+    400368: REC_LOT_MINI_GE_Group_02 8
+    400370: REC_LOT_MINI_GE_Group_03
+    400372: REC_LOT_MINI_GE_Group_03 1
+    400374: REC_LOT_MINI_GE_Group_03 2
+    400376: REC_LOT_MINI_GE_Group_03 3
+    400378: REC_LOT_MINI_GE_Group_03 4
+    400380: REC_LOT_MINI_GE_Group_03 5
+    400382: REC_LOT_MINI_GE_Group_03 6
+    400384: REC_LOT_MINI_GE_Group_03 7
+    400386: REC_LOT_MINI_GE_Group_03 8
+    400388: skp_camera_Last_Saved_SketchUp_View
+    400390: skp_camera_Scene_1
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2000002: skp_camera_Scene_1
+    2300000: _3_2
+    2300002: Component_3
+    2300004: Component_3 1
+    2300006: Component_54
+    2300008: Component_65
+    2300010: Component_65 1
+    2300012: group_0
+    2300014: group_10
+    2300016: group_10 1
+    2300018: group_10 2
+    2300020: group_11
+    2300022: group_11 1
+    2300024: group_11 2
+    2300026: group_12
+    2300028: group_12 1
+    2300030: group_12 2
+    2300032: group_13
+    2300034: group_14
+    2300036: group_15
+    2300038: group_16
+    2300040: group_17
+    2300042: group_2
+    2300044: group_21
+    2300046: group_22
+    2300048: group_22 1
+    2300050: group_23
+    2300052: group_23 1
+    2300054: group_24
+    2300056: group_24 1
+    2300058: group_25
+    2300060: group_25 1
+    2300062: group_26
+    2300064: group_26 1
+    2300066: group_27
+    2300068: group_27 1
+    2300070: group_28
+    2300072: group_28 1
+    2300074: group_3
+    2300076: group_4
+    2300078: group_5
+    2300080: group_7
+    2300082: group_8
+    2300084: Group_82
+    2300086: Group_82 1
+    2300088: group_9
+    2300090: ID106
+    2300092: ID114
+    2300094: ID122
+    2300096: ID130
+    2300098: ID138
+    2300100: ID146
+    2300102: ID154
+    2300104: ID162
+    2300106: ID25
+    2300108: ID25 1
+    2300110: ID25 2
+    2300112: ID25 3
+    2300114: ID25 4
+    2300116: ID25 5
+    2300118: ID25 6
+    2300120: ID25 7
+    2300122: ID25 8
+    2300124: ID255
+    2300126: ID323
+    2300128: ID323 1
+    2300130: ID323 2
+    2300132: ID33
+    2300134: ID33 1
+    2300136: ID33 2
+    2300138: ID33 3
+    2300140: ID33 4
+    2300142: ID33 5
+    2300144: ID33 6
+    2300146: ID33 7
+    2300148: ID33 8
+    2300150: ID357
+    2300152: ID357 1
+    2300154: ID384
+    2300156: ID392
+    2300158: ID400
+    2300160: ID408
+    2300162: ID416
+    2300164: ID424
+    2300166: ID432
+    2300168: ID471
+    2300170: ID510
+    2300172: ID538
+    2300174: ID538 1
+    2300176: ID544
+    2300178: ID544 1
+    2300180: ID550
+    2300182: ID550 1
+    2300184: ID558
+    2300186: ID558 1
+    2300188: ID57
+    2300190: ID57 1
+    2300192: ID57 2
+    2300194: ID57 3
+    2300196: ID57 4
+    2300198: ID57 5
+    2300200: ID57 6
+    2300202: ID57 7
+    2300204: ID57 8
+    2300206: ID90
+    2300208: ID98
+    2300210: REC_LOT_MINI_GE_Group_01
+    2300212: REC_LOT_MINI_GE_Group_01 1
+    2300214: REC_LOT_MINI_GE_Group_01 2
+    2300216: REC_LOT_MINI_GE_Group_01 3
+    2300218: REC_LOT_MINI_GE_Group_01 4
+    2300220: REC_LOT_MINI_GE_Group_01 5
+    2300222: REC_LOT_MINI_GE_Group_01 6
+    2300224: REC_LOT_MINI_GE_Group_01 7
+    2300226: REC_LOT_MINI_GE_Group_01 8
+    2300228: REC_LOT_MINI_GE_Group_02
+    2300230: REC_LOT_MINI_GE_Group_02 1
+    2300232: REC_LOT_MINI_GE_Group_02 2
+    2300234: REC_LOT_MINI_GE_Group_02 3
+    2300236: REC_LOT_MINI_GE_Group_02 4
+    2300238: REC_LOT_MINI_GE_Group_02 5
+    2300240: REC_LOT_MINI_GE_Group_02 6
+    2300242: REC_LOT_MINI_GE_Group_02 7
+    2300244: REC_LOT_MINI_GE_Group_02 8
+    2300246: REC_LOT_MINI_GE_Group_03
+    2300248: REC_LOT_MINI_GE_Group_03 1
+    2300250: REC_LOT_MINI_GE_Group_03 2
+    2300252: REC_LOT_MINI_GE_Group_03 3
+    2300254: REC_LOT_MINI_GE_Group_03 4
+    2300256: REC_LOT_MINI_GE_Group_03 5
+    2300258: REC_LOT_MINI_GE_Group_03 6
+    2300260: REC_LOT_MINI_GE_Group_03 7
+    2300262: REC_LOT_MINI_GE_Group_03 8
+    3300000: _3_2
+    3300002: Component_3
+    3300004: Component_3 1
+    3300006: Component_54
+    3300008: Component_65
+    3300010: Component_65 1
+    3300012: group_0
+    3300014: group_10
+    3300016: group_10 1
+    3300018: group_10 2
+    3300020: group_11
+    3300022: group_11 1
+    3300024: group_11 2
+    3300026: group_12
+    3300028: group_12 1
+    3300030: group_12 2
+    3300032: group_13
+    3300034: group_14
+    3300036: group_15
+    3300038: group_16
+    3300040: group_17
+    3300042: group_2
+    3300044: group_21
+    3300046: group_22
+    3300048: group_22 1
+    3300050: group_23
+    3300052: group_23 1
+    3300054: group_24
+    3300056: group_24 1
+    3300058: group_25
+    3300060: group_25 1
+    3300062: group_26
+    3300064: group_26 1
+    3300066: group_27
+    3300068: group_27 1
+    3300070: group_28
+    3300072: group_28 1
+    3300074: group_3
+    3300076: group_4
+    3300078: group_5
+    3300080: group_7
+    3300082: group_8
+    3300084: Group_82
+    3300086: Group_82 1
+    3300088: group_9
+    3300090: ID106
+    3300092: ID114
+    3300094: ID122
+    3300096: ID130
+    3300098: ID138
+    3300100: ID146
+    3300102: ID154
+    3300104: ID162
+    3300106: ID25
+    3300108: ID25 1
+    3300110: ID25 2
+    3300112: ID25 3
+    3300114: ID25 4
+    3300116: ID25 5
+    3300118: ID25 6
+    3300120: ID25 7
+    3300122: ID25 8
+    3300124: ID255
+    3300126: ID323
+    3300128: ID323 1
+    3300130: ID323 2
+    3300132: ID33
+    3300134: ID33 1
+    3300136: ID33 2
+    3300138: ID33 3
+    3300140: ID33 4
+    3300142: ID33 5
+    3300144: ID33 6
+    3300146: ID33 7
+    3300148: ID33 8
+    3300150: ID357
+    3300152: ID357 1
+    3300154: ID384
+    3300156: ID392
+    3300158: ID400
+    3300160: ID408
+    3300162: ID416
+    3300164: ID424
+    3300166: ID432
+    3300168: ID471
+    3300170: ID510
+    3300172: ID538
+    3300174: ID538 1
+    3300176: ID544
+    3300178: ID544 1
+    3300180: ID550
+    3300182: ID550 1
+    3300184: ID558
+    3300186: ID558 1
+    3300188: ID57
+    3300190: ID57 1
+    3300192: ID57 2
+    3300194: ID57 3
+    3300196: ID57 4
+    3300198: ID57 5
+    3300200: ID57 6
+    3300202: ID57 7
+    3300204: ID57 8
+    3300206: ID90
+    3300208: ID98
+    3300210: REC_LOT_MINI_GE_Group_01
+    3300212: REC_LOT_MINI_GE_Group_01 1
+    3300214: REC_LOT_MINI_GE_Group_01 2
+    3300216: REC_LOT_MINI_GE_Group_01 3
+    3300218: REC_LOT_MINI_GE_Group_01 4
+    3300220: REC_LOT_MINI_GE_Group_01 5
+    3300222: REC_LOT_MINI_GE_Group_01 6
+    3300224: REC_LOT_MINI_GE_Group_01 7
+    3300226: REC_LOT_MINI_GE_Group_01 8
+    3300228: REC_LOT_MINI_GE_Group_02
+    3300230: REC_LOT_MINI_GE_Group_02 1
+    3300232: REC_LOT_MINI_GE_Group_02 2
+    3300234: REC_LOT_MINI_GE_Group_02 3
+    3300236: REC_LOT_MINI_GE_Group_02 4
+    3300238: REC_LOT_MINI_GE_Group_02 5
+    3300240: REC_LOT_MINI_GE_Group_02 6
+    3300242: REC_LOT_MINI_GE_Group_02 7
+    3300244: REC_LOT_MINI_GE_Group_02 8
+    3300246: REC_LOT_MINI_GE_Group_03
+    3300248: REC_LOT_MINI_GE_Group_03 1
+    3300250: REC_LOT_MINI_GE_Group_03 2
+    3300252: REC_LOT_MINI_GE_Group_03 3
+    3300254: REC_LOT_MINI_GE_Group_03 4
+    3300256: REC_LOT_MINI_GE_Group_03 5
+    3300258: REC_LOT_MINI_GE_Group_03 6
+    3300260: REC_LOT_MINI_GE_Group_03 7
+    3300262: REC_LOT_MINI_GE_Group_03 8
+    4300000: group_0
+    4300002: ID90
+    4300004: ID98
+    4300006: ID106
+    4300008: ID114
+    4300010: ID122
+    4300012: ID130
+    4300014: ID138
+    4300016: ID146
+    4300018: ID154
+    4300020: ID162
+    4300022: REC_LOT_MINI_GE_Group_03
+    4300024: ID25
+    4300026: ID33
+    4300028: REC_LOT_MINI_GE_Group_02
+    4300030: REC_LOT_MINI_GE_Group_01
+    4300032: ID57
+    4300034: group_2
+    4300036: group_3
+    4300038: group_4
+    4300040: group_5
+    4300042: ID255
+    4300044: group_7
+    4300046: group_8
+    4300048: group_9
+    4300050: group_10
+    4300052: group_11
+    4300054: group_12
+    4300056: ID323
+    4300058: group_13
+    4300060: Component_3
+    4300062: ID357
+    4300064: group_14
+    4300066: ID384
+    4300068: ID392
+    4300070: ID400
+    4300072: ID408
+    4300074: ID416
+    4300076: ID424
+    4300078: ID432
+    4300080: group_15
+    4300082: group_16
+    4300084: ID510
+    4300086: group_17
+    4300088: ID471
+    4300090: _3_2
+    4300092: Component_65
+    4300094: Group_82
+    4300096: ID538
+    4300098: ID544
+    4300100: ID550
+    4300102: ID558
+    4300104: group_21
+    4300106: Component_54
+    4300108: group_22
+    4300110: group_23
+    4300112: group_24
+    4300114: group_25
+    4300116: group_26
+    4300118: group_27
+    4300120: group_28
+    4300122: group_22
+    4300124: group_23
+    4300126: group_24
+    4300128: group_25
+    4300130: group_26
+    4300132: group_27
+    4300134: group_28
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BRUSHED-STAINLESS-CMYK
+    second: {fileID: 2100000, guid: e0206245046e4c74f998761d7f5c5432, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_000
+    second: {fileID: 2100000, guid: 178f11b82421a6f489b99eb47fbc47a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_007
+    second: {fileID: 2100000, guid: b9e83798b5ac55248b5cd7c037209aa2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_A06
+    second: {fileID: 2100000, guid: 42e8f41ba830b27409defd7e450edc78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_H01
+    second: {fileID: 2100000, guid: 41d240236e7e90343afa662292fdce74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Color_M00
+    second: {fileID: 2100000, guid: 7d232a962cf3ff64caba802e47dd08d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PDM_Aluminium
+    second: {fileID: 2100000, guid: f450b6919237e8840b224c6b41a66ba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PDM_Aluminium_polished_01
+    second: {fileID: 2100000, guid: 624e5b53f31c5fb44a1e6fbb28d7e59d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PDM_Aluminium_polished_01_0
+    second: {fileID: 2100000, guid: 03ab4fe4e5e16014d8efe97783e39b89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PDM_Brown_glossy_REC_LOT_MINI_GE
+    second: {fileID: 2100000, guid: a2bcf7d5fea8ada4fa070c075dc273ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PDM_Brown_glossy_REC_LOT_MINI_GE1
+    second: {fileID: 2100000, guid: f9602e7aade2d6a439b73400a9366ae4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PDM_Stainless1
+    second: {fileID: 2100000, guid: e242d091be72bfb40a44f4eef71ef084, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PDM_Wood_veneer_11_Cherry
+    second: {fileID: 2100000, guid: 4f750c2f700b21d46bdb415975c2015b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _0130_Gainsboro
+    second: {fileID: 2100000, guid: 170a5d14ebb542a4188683657e6c4461, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: __0135_DarkGray_2
+    second: {fileID: 2100000, guid: c76212cbe322790409a1f18b74a3352d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: __Color_008_1
+    second: {fileID: 2100000, guid: a24060de9e7c3be41b78b50e2328383d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: __Color_B02_2
+    second: {fileID: 2100000, guid: 6bd3d9d9af57893468e6730f64721300, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material
+    second: {fileID: 2100000, guid: 582614d4d4e15da449818d0ef08ed152, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: royal-cream-honed-tile
+    second: {fileID: 2100000, guid: 7564f59d4e24d2b4399405b750c58c41, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

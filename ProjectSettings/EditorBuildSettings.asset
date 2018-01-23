@@ -4,4 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/Mainmenu.unity
+    guid: c87abb9e83043824892439bd415003ac
+  - enabled: 1
+    path: Assets/Scene/supermarket.unity
+    guid: 4e661aa6f317177428f8ab70abe5e4a4
+  - enabled: 1
+    path: Assets/Scene/Elevator.unity
+    guid: 4f4d485ba1968ad469375966de35a8f5
+  - enabled: 1
+    path: Assets/Scene/Trees.unity
+    guid: 6fb1c4030c2e7f843a0483bcdc5c5649
+  - enabled: 1
+    path: Assets/Scene/Altura.unity
+    guid: 8845b2eea87f7bc48b8c0ee03d1e975d
