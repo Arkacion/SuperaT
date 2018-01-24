@@ -1,7 +1,7 @@
 # SuperaT
 
 Manual de desarrollador:
-https://drive.google.com/open?id=1DTgi46cLfgHAB39qrDEFQZpPXzS3yaIinFlav0ESC14
+https://github.com/Arkacion/SuperaT/blob/master/Manuals/Manual%20de%20desarrollador.pdf
 
 Manual de usuario:
-https://drive.google.com/open?id=12gVMIsGXkNx9IVaj4xYDSSeCG4z8xNeulhmB51JRXw0
+https://github.com/Arkacion/SuperaT/blob/master/Manuals/Manual%20de%20usuario.pdf
